@@ -15,4 +15,5 @@ Regression models to estimate car prices using real-world dataset.
 ### Sales Forecasting
 Time series and machine learning models to predict sales trends.
 
+##Tech stack
 Python | Pandas | Scikit-learn | Power BI | SQL | XGBoost
